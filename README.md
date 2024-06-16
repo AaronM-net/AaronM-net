@@ -8,6 +8,7 @@
 - <b>WIP</b>
 
 <h2> 📫 How to reach me:</h2>
+
 <img align="left" alt="AaronMathias | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://linkedin.com" />
 <img align="left" alt="AaronMathias | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/aye_aron.m/" />
 
