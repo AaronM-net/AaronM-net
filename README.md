@@ -1,34 +1,56 @@
 <h1 align="center">Hi, I'm Aaron 👋</h1>
 <h3 align="center">Cloud & Network Engineer in training | AWS-focused | Fintech infrastructure background</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Current%20Focus-CompTIA%20Network%2B-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next%20Up-AWS%20Cloud%20Practitioner-orange?style=flat-square" />
+</p>
+
 ---
 
 ### 🚀 About Me
 
-I'm currently in **ATM Technical Support at BMO**, where I've spent 3+ years keeping critical fintech infrastructure running — supporting ~3,500 ATMs at >98% uptime and helping drive $1M+ in vendor cost savings.
+I'm currently an **ATM Technical Support Analyst**, where I've spent 3+ years keeping critical fintech infrastructure running — supporting ~3,500 ATMs at >98% uptime and helping drive $1M+ in vendor cost savings.
 
-I'm now pivoting that experience into **Cloud & Network Engineering**, with a focus on AWS. I'm currently working through WGU's **BS in Cloud and Network Engineering (AWS Track)** and building hands-on projects to back it up.
+I'm now pivoting that experience into **Cloud & Network Engineering**, with a focus on AWS. I'm currently working through WGU's **BS in Cloud and Network Engineering (AWS Track)** and looking to build hands-on projects to back it up.
 
 ```
 const aaron = {
-  role: "ATM Technical Support @ BMO",
+  role: "ATM Technical Support Analyst",
   pivotingTo: "Cloud / Network Engineering (AWS-focused)",
-  currentlyLearning: ["AWS", "Networking", "Infrastructure as Code"],
-  funFact: "3+ years keeping financial infrastructure online before keeping cloud infrastructure online"
+  rightNowFocus: "CompTIA Network+",
+  degreeStack: ["Network+", "AWS Cloud Practitioner", "AWS Solutions Architect",
+                "AWS Cloud Ops Engineer", "ITIL 4", "Linux Essentials"],
+  personalAddOns: ["Git Version Control", "AZ-104 Azure Administrator", "Python / Boto3"],
+  funFact: "3+ years keeping financial infrastructure online before shifting focus to keeping cloud infrastructure online"
 };
 ```
 
 ---
 
-### 🎓 Certifications & Education
+### 🎓 Certifications & Roadmap
 
-| Status | Certification |
-|--------|----------------|
-| ✅ Completed | CompTIA A+ Core 1 |
-| ✅ Completed | CompTIA A+ Core 2 |
-| 🔄 In Progress | AWS Certified Cloud Practitioner |
-| 🔄 In Progress | CompTIA Network+ |
-| 🎓 Currently Enrolled | WGU – BS Cloud and Network Engineering (AWS Track) |
+**WGU BSCNE (AWS Track) — 38%+ complete**
+
+| Status | Certification | Target |
+|--------|----------------|--------|
+| ✅ | CompTIA A+ Core 1 & 2 | Complete |
+| 🔄 | CompTIA Network+ (D325) | July 2026 |
+| ⬜ | AWS Certified Cloud Practitioner | Aug 2026 |
+| ⬜ | AWS Certified Solutions Architect – Associate | Oct/Nov 2026 |
+| ⬜ | AWS Certified Cloud Ops Engineer – Associate | Early 2027 |
+| ⬜ | ITIL 4 Foundation | Nov/Dec 2026 |
+| ⬜ | LPI Linux Essentials | Nov/Dec 2026 |
+
+**Personal add-ons (outside the degree)**
+
+| Status | Item | Target |
+|--------|------|--------|
+| ✅ | Git Version Control (WGU D197) | Complete |
+| ⬜ | AZ-104: Microsoft Azure Administrator | Oct 18, 2026 |
+| ⬜ | Python / Boto3 | Late 2026 |
+
+> **Stretch track (post-degree considerations):** AWS AI Practitioner, PyTorch/TensorFlow, SageMaker, Docker/Kubernetes, Ansible
 
 ---
 
@@ -36,6 +58,7 @@ const aaron = {
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Networking-2496ED?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -46,24 +69,9 @@ const aaron = {
 
 ### 📌 Featured / In-Progress Projects
 
-Building these out via NextWork, starting with VPC and CloudWatch:
+Building these out in the upcoming future, starting with VPC and CloudWatch:
 
 - 🔧 **AWS VPC Build** — *coming soon*
 - 🔧 **CloudWatch Monitoring Setup** — *coming soon*
-
-> Pin your repos as you build them out — replace this section with links once you've pushed your first AWS projects.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronM-net&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaronM-net&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronM-net&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
