@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Aaron 👋</h1>
 <h3 align="center">Cloud & Network Engineer in training | AWS-focused | Fintech infrastructure background</h3>
 
-<p align="center">
-  <a href="https://aaronmathias.net/"><img src="https://img.shields.io/badge/Portfolio-aaronmathias.net-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -72,10 +67,3 @@ Building these out via NextWork, starting with VPC and CloudWatch:
 </p>
 
 ---
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://aaronmathias.net/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-</p>
